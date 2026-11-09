@@ -1,12 +1,12 @@
-## ***Project not maintained anymore. Use [ZPhisher](https://github.com/htr-tech/zphisher)***
+
 #
 #
 
 <p align="left">
-<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Made in kenya" src="https://img.shields.io/badge/MADE%20IN-kenya-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Zphisher" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/nexphisher.png"></a>
+<a href="#"><img title="go phisph" src="https://raw.githubusercontent.com/tessybigshark-rgb/release-download/rasta/images/banner/nexphisher.png"></a>
 </p>
 <p align="center">
 <a href="https://github.com/htr-tech"><img title="Author" src="https://img.shields.io/badge/Author-htr--tech-red.svg?style=for-the-badge&logo=github"></a>
@@ -25,7 +25,7 @@
 
 * `apt update`
 * `apt install git -y`
-* `git clone git://github.com/htr-tech/nexphisher.git`
+* `git clone git://github.com/htr-tech/go phisph`
 * `cd nexphisher`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
